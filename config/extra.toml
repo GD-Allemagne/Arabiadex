@@ -1,0 +1,39 @@
+[[ballsdex.packages]]
+location = "git+https://github.com/flaree/ballsdex-collector@v0.0.4"
+path = "collector"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/flaree/ballsdex-frames@v0.0.9"
+path = "frames"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.5"
+path = "rarity"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack@0.0.1"
+path = "leaderboard"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/cewlgruyere/ReCol@1.0.0"
+path = "ReCollection"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/MapsDex-Team/BallsDex-Battle-Pack@0.0.1"
+path = "battle"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/Mitoooooooopo/Crafting-package-BD@0.3.1"
+path = "crafting"
+enabled = true
+
+[[ballsdex.packages]]
+location = "git+https://github.com/cewlgruyere/SpecialBonuses@v1.0.0"
+path = "SpecialBonuses"
+enabled = true
